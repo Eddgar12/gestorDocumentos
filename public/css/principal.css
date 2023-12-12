@@ -1,0 +1,118 @@
+.gestorBody {
+    background-color: #f1f1f1;
+    margin-bottom: 200px; 
+}
+
+.tituloPrincipal {
+    color:#d6b282; 
+}
+
+.tipoRecurso {
+    border-radius: 8px;
+    border: 1px solid #dedede;
+    width: 290px;
+    background-color: #f9f9f9 ; 
+    
+	padding: 10px;
+    margin: 10px;
+	position: relative;
+}
+ 
+ /* unvisited link */
+.IndicadorTipo { 
+    /* color: #8f8a8a;  */
+    color: #7893ac;
+    text-decoration: none;
+}
+
+a.IndicadorTipo:hover, a.IndicadorTipo:active { 
+    color: #7893ac;
+    text-decoration: none;
+} 
+
+.iconoBD {
+    color: #d6b282; 
+    font-size: 45px; 
+}
+
+.iconoBD:hover,.iconoBD:active  {
+    color: #ca8f41; 
+    font-size: 55px;
+}
+
+.tituloEfecto:hover { 
+    font-size: 30px;
+    
+} 
+
+
+/* -------------------BTN Nuevo registro ------------------*/ 
+ 
+/* -------------------Tabla ------------------*/ 
+tr { 
+    font-size: 13px; 
+    font-family:verdana;
+}
+
+.tipoNorma {
+    margin-top: 20px;
+    margin-bottom: 30px;
+} 
+
+tr {
+    color: #71717e;
+}
+
+.tipoCoordinacion {
+    font-size:11px; 
+    font-family:verdana;
+    color: #8d8d8f;
+} 
+  
+.iconoInactivo {
+    color: #be710c00; 
+    border: 3px solid; 
+    border-color: #8d8d8f; 
+    border-radius: 50%; 
+    font-size: 10px;  
+}
+
+.iconoActivo {
+    color: #36be0c00; 
+    border: 3px solid; 
+    border-color: #ca8f41; 
+    border-radius: 50%; 
+    font-size: 10px;   
+}
+
+.statusInactivo{
+    color: #8d8d8f; 
+}
+
+.statusActivo{
+    color: #ca8f41; 
+}
+
+
+/* ------------- vista del documento ------------- */
+.vistaDoc{
+    font-size:14px; 
+    font-family:verdana;
+    color: #000;
+}
+
+.btnInicio {  
+    border-color: #7893ac; 
+    color: #636464;
+} 
+
+
+/* ------------- Tabla versiones ------------- */
+.tblVersiones {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+ 
+  
+ 
